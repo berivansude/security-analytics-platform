@@ -242,16 +242,3 @@ npm test
 ## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 📞 İletişim
-
-Proje hakkında sorularınız için issue açabilirsiniz.
-
-## 🙏 Teşekkürler
-
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Recharts](https://recharts.org/)
-- [Lucide](https://lucide.dev/) 
